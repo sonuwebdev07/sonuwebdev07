@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sonu
 - 👀 I’m interested in Web Developing
-- 🌱 I’m learnt python Full Stack
+- 🌱 I have learnt python Full Stack
 - 📫 contact me at sonuwebdev07@gmail.com 
 
 <!---
